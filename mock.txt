@@ -1,0 +1,46 @@
+MOCK
+================
+1) what are the functionality or piller of oops ?
+2) why we are using methods in java and explain it's types ?
+3) write a program to call a method ?
+4) write a program to call a method which contains primitive argument ?
+5) write a program to call a method with non-primitive argument ?
+6) what is return type and it's types ?
+7) write a program to print return statement of any method ?
+8) why we are using inheritance in java ?
+9) what is inheritance and explain it's types ?
+10) difference between multi-level and multiple inheritance ?
+11) difference between multiple and hierarchical inheritance ?
+12) which is inheritance is support in java using classes ?
+13) what is method overloading and explain with example ?
+14) what is method overriding explain with example ?
+15) why we need override any method ?
+16) can we change the return type of any overridden method ?
+17) what is co-varient consept explain with example ?
+18) write a program to overload main method ?
+19) can we overload main method ?
+20) can we declare more than one main method inside a class with same method signature ?
+21) can we override main method ?
+22) can we change the any overridden method if yes then give an example and explain the rules ?
+23) why we using modifier's in java ?
+24) How many types of modifier's in java ?
+25) difference between access and non-access modifier ?
+26) can we override any private method ?
+27) explain anything you know about abstract modifier ?
+28) write a program to provide implementation part to any abstract method ?
+29) how can you provide implementation to a abstract method ?
+30) why we are using abstract method give the real time example ?
+31) explain anything you know about final modifier ?
+32) can we override final method ?
+33) how can we make a variable constant ? // declaring as final
+34) what is constructor and why we are using constructor ?
+35) types of constructor ?
+36) write a program to prove default constructor will be there inside a class if there is no userdefined constructor is declared ?
+37) write a program of constructor chaining ?
+38) write a program to initialize the object ?
+39) why we are using this and super keyword ?
+40) difference between keywords and constructor caller ?
+41) what is interface ?
+42) why we are using interface ?
+43) how an interface is different from a class ?
+44) copy constructor ?
